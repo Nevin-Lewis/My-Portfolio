@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.65788cfe.css",
+    "main.js": "/react-gh-pages/static/js/main.8385319c.js",
+    "static/js/787.aeca62f9.chunk.js": "/react-gh-pages/static/js/787.aeca62f9.chunk.js",
+    "static/media/T4K.jpg": "/react-gh-pages/static/media/T4K.a36a56c0bb6220a7591f.jpg",
+    "static/media/ProfilePhoto.jpeg": "/react-gh-pages/static/media/ProfilePhoto.34077700eac7a05afeda.jpeg",
+    "static/media/Group_project.png": "/react-gh-pages/static/media/Group_project.7b95699425f66326d8f9.png",
+    "static/media/localhost_3001_.png": "/react-gh-pages/static/media/localhost_3001_.84c0c55749156635106e.png",
+    "static/media/Revised Resume.pdf": "/react-gh-pages/static/media/Revised Resume.f88952612807cb1a3a62.pdf",
+    "static/media/Facebook.webp": "/react-gh-pages/static/media/Facebook.af9cf282c69b3cecfb7b.webp",
+    "static/media/Email.webp": "/react-gh-pages/static/media/Email.fad029bffb6326a67cdf.webp",
+    "static/media/Phone.webp": "/react-gh-pages/static/media/Phone.f777b7dbe694bb099e9b.webp",
+    "index.html": "/react-gh-pages/index.html",
+    "main.65788cfe.css.map": "/react-gh-pages/static/css/main.65788cfe.css.map",
+    "main.8385319c.js.map": "/react-gh-pages/static/js/main.8385319c.js.map",
+    "787.aeca62f9.chunk.js.map": "/react-gh-pages/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65788cfe.css",
+    "static/js/main.8385319c.js"
+  ]
+}
