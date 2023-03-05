@@ -1,0 +1,61 @@
+body{
+  height: 100%;
+  background: linear-gradient(to right, rgba(50, 177, 44, 0.3) 0%,  rgba(50, 177, 44, 0.3) 60%, transparent 70%, transparent 100%);
+  background-size: auto;
+  transition: background-image 1s ease-out;}
+ #root{
+  height: 100vh;
+ }
+
+.Welcome {
+  color: rgb(50, 177, 160);
+  list-style: none;
+  text-align:left;
+  line-height: 0.9;
+  font-size: 10vw;
+ }
+.Welcome a{
+  text-decoration: none;
+
+}
+div .pPhoto{
+  margin-top: 10%;
+}
+div .navbar{
+  max-height: 5%;
+}
+.Welcome a:visited{
+  text-decoration: none;
+  color: unset;
+}
+.Welcome a:hover{
+  text-decoration: underline;
+  color: rgb(50, 152, 138);
+}
+.pPhoto {
+  position: absolute;
+  z-index: -2;}
+.profile {
+  border-radius: 9%;
+  border: 3px solid black;
+}
+footer div {
+  display: inline-flex;
+}
+
+footer img {
+  height: 2rem;
+  width: auto;
+}
+footer div a{
+  padding: 2% 9px;
+}
+.card-img-top {
+  height: 14rem;
+}
+.profile2 {
+  border-radius: 50%;;
+}
+.myheader {
+  max-height: 8%;
+}
