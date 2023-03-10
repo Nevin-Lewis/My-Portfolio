@@ -1,3 +1,4 @@
+<img width="1800" alt="Screenshot 2023-03-10 at 12 05 53 AM (2)" src="https://user-images.githubusercontent.com/64855834/224236645-3edf9fd9-6d21-4249-867a-f291460c79b4.png">
 # React Portfolio [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
     
